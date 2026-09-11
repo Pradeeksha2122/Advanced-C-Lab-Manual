@@ -16,12 +16,11 @@ Else
  
 Program:
 
-//type your code here
 
 
 Output:
 
-//paste your output here
+<img width="398" height="246" alt="Screenshot 2026-07-31 114944" src="https://github.com/user-attachments/assets/31fc6231-c442-48a7-a21a-3bd68304b9f2" />
 
 
 Result:
